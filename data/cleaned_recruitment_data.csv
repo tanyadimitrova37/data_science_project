@@ -1,0 +1,1501 @@
+age,gender,education_level,experience_years,interview_score,skill_score,personality_score,hiring_decision
+26,Female,Bachelor's,0,48,78,91,Hired
+39,Female,PhD,12,35,68,80,Hired
+48,Male,Bachelor's,3,20,67,13,Not Hired
+34,Female,Bachelor's,5,36,27,70,Not Hired
+30,Male,Bachelor's,6,23,52,85,Not Hired
+27,Male,Master's,14,54,50,50,Hired
+48,Male,Bachelor's,6,24,52,64,Not Hired
+40,Male,PhD,13,6,3,92,Not Hired
+26,Female,Master's,6,80,78,51,Hired
+45,Female,Bachelor's,2,92,16,94,Not Hired
+38,Female,Bachelor's,15,93,66,29,Not Hired
+42,Male,Master's,5,70,73,56,Not Hired
+30,Male,Master's,12,96,46,78,Hired
+30,Male,Bachelor's,7,70,55,81,Not Hired
+43,Female,Bachelor's,3,23,22,98,Not Hired
+40,Male,Master's,12,10,17,29,Not Hired
+23,Female,Bachelor's,7,72,0,97,Not Hired
+27,Female,PhD,1,11,34,41,Not Hired
+43,Female,Bachelor's,14,34,63,10,Not Hired
+22,Female,Bachelor's,9,62,57,26,Not Hired
+41,Female,Master's,8,67,94,23,Not Hired
+40,Female,Bachelor's,8,99,58,98,Hired
+21,Male,Bachelor's,7,91,0,38,Not Hired
+43,Male,Bachelor's,9,56,2,71,Not Hired
+31,Female,Bachelor's,13,12,66,17,Not Hired
+49,Female,Bachelor's,12,22,36,76,Hired
+25,Male,Bachelor's,9,82,82,44,Not Hired
+21,Female,Bachelor's,0,100,28,87,Not Hired
+47,Female,Master's,1,38,88,86,Not Hired
+40,Male,Bachelor's,5,87,32,11,Not Hired
+20,Female,Bachelor's,9,79,99,48,Not Hired
+31,Female,Bachelor's,4,96,60,93,Not Hired
+45,Female,PhD,11,11,92,30,Hired
+41,Male,Master's,13,33,89,91,Hired
+48,Male,Bachelor's,8,70,3,21,Not Hired
+31,Male,Bachelor's,4,74,13,43,Not Hired
+44,Female,Bachelor's,1,30,90,91,Not Hired
+36,Female,Master's,9,92,32,63,Hired
+46,Male,Master's,3,61,21,76,Hired
+46,Female,Bachelor's,8,12,47,24,Not Hired
+50,Female,Master's,0,30,2,50,Not Hired
+29,Female,Master's,10,1,86,6,Hired
+47,Female,Bachelor's,0,14,84,5,Not Hired
+47,Female,Bachelor's,11,56,22,23,Not Hired
+35,Male,Bachelor's,6,74,67,18,Hired
+34,Female,Bachelor's,10,33,20,82,Hired
+49,Male,Master's,2,67,100,99,Not Hired
+49,Female,Bachelor's,9,74,42,8,Not Hired
+34,Male,Bachelor's,1,28,94,35,Not Hired
+49,Female,Bachelor's,8,65,84,39,Not Hired
+38,Male,Bachelor's,2,15,25,92,Not Hired
+31,Female,Bachelor's,15,38,40,23,Not Hired
+42,Male,Bachelor's,1,76,98,47,Not Hired
+39,Female,Bachelor's,11,36,37,62,Hired
+44,Male,Bachelor's,7,80,87,68,Hired
+22,Female,Bachelor's,9,20,10,52,Not Hired
+24,Male,Bachelor's,5,43,28,53,Not Hired
+38,Male,Bachelor's,5,18,59,41,Not Hired
+26,Female,Bachelor's,9,70,66,44,Not Hired
+40,Female,Bachelor's,10,7,64,89,Hired
+28,Male,Bachelor's,6,76,60,13,Hired
+26,Female,Bachelor's,6,100,18,28,Hired
+37,Male,Bachelor's,10,65,45,5,Not Hired
+23,Male,Master's,12,40,48,6,Not Hired
+44,Male,Bachelor's,14,74,21,36,Not Hired
+47,Female,Bachelor's,5,87,77,52,Hired
+33,Male,Master's,3,69,56,17,Not Hired
+37,Male,Bachelor's,10,60,13,86,Not Hired
+45,Female,Bachelor's,8,25,43,37,Not Hired
+28,Female,PhD,5,70,15,58,Not Hired
+45,Female,Master's,3,82,96,0,Hired
+40,Female,Bachelor's,11,69,76,67,Not Hired
+21,Male,Bachelor's,2,28,11,43,Not Hired
+39,Male,Bachelor's,3,65,54,46,Not Hired
+47,Male,Bachelor's,2,18,50,34,Not Hired
+34,Male,Bachelor's,14,67,38,86,Hired
+47,Female,Bachelor's,1,57,32,90,Not Hired
+26,Male,Bachelor's,13,69,32,59,Not Hired
+31,Male,Bachelor's,4,56,28,89,Not Hired
+48,Female,Master's,1,36,68,51,Not Hired
+27,Male,Bachelor's,5,60,69,7,Not Hired
+34,Male,Bachelor's,2,91,30,79,Hired
+22,Male,Bachelor's,5,29,79,40,Not Hired
+33,Male,Bachelor's,14,70,30,2,Not Hired
+36,Male,Bachelor's,10,72,88,95,Hired
+23,Male,Bachelor's,9,24,45,68,Hired
+37,Female,Bachelor's,8,96,96,83,Hired
+27,Female,Bachelor's,0,64,76,13,Not Hired
+23,Male,Bachelor's,15,5,51,95,Hired
+21,Male,Bachelor's,15,17,9,25,Not Hired
+49,Female,Bachelor's,5,9,87,69,Hired
+25,Male,Bachelor's,8,91,73,57,Not Hired
+41,Male,PhD,10,10,40,99,Hired
+29,Male,Bachelor's,3,96,94,39,Hired
+23,Female,Bachelor's,10,64,76,50,Not Hired
+41,Male,Bachelor's,11,76,2,4,Not Hired
+48,Female,Bachelor's,1,100,58,76,Not Hired
+50,Male,PhD,12,83,51,31,Hired
+37,Female,Bachelor's,3,64,33,79,Not Hired
+45,Female,Master's,0,51,48,0,Not Hired
+31,Male,Bachelor's,2,66,27,76,Not Hired
+21,Female,Bachelor's,9,81,82,53,Hired
+29,Male,Bachelor's,8,77,86,10,Not Hired
+49,Female,Master's,9,30,95,52,Not Hired
+23,Male,Bachelor's,4,90,12,7,Not Hired
+33,Male,Bachelor's,14,16,96,24,Hired
+50,Female,PhD,10,54,97,39,Not Hired
+35,Male,Bachelor's,5,92,96,31,Not Hired
+34,Male,Bachelor's,2,35,68,87,Not Hired
+27,Female,Bachelor's,15,100,66,27,Hired
+33,Male,PhD,4,25,60,77,Hired
+42,Male,Bachelor's,10,52,59,2,Not Hired
+47,Female,Master's,7,16,70,99,Hired
+44,Female,Master's,5,85,23,90,Not Hired
+49,Male,Bachelor's,3,24,62,83,Not Hired
+27,Male,Bachelor's,1,1,85,78,Hired
+40,Female,Bachelor's,13,85,60,61,Hired
+35,Female,Bachelor's,8,4,22,26,Not Hired
+32,Male,Master's,12,3,29,44,Hired
+37,Female,Master's,11,35,59,91,Hired
+34,Male,Bachelor's,0,5,17,24,Not Hired
+40,Male,Bachelor's,0,20,95,60,Not Hired
+43,Male,Bachelor's,12,76,55,43,Not Hired
+45,Male,Bachelor's,3,100,52,96,Hired
+44,Male,Bachelor's,6,88,6,45,Not Hired
+47,Female,Bachelor's,0,25,96,13,Not Hired
+47,Female,Bachelor's,8,54,68,7,Not Hired
+47,Female,Bachelor's,3,38,91,47,Not Hired
+32,Female,Bachelor's,2,83,71,13,Hired
+28,Male,Bachelor's,0,32,78,64,Hired
+48,Male,Bachelor's,9,13,51,79,Not Hired
+34,Male,Master's,3,55,3,81,Not Hired
+32,Male,Bachelor's,8,99,33,6,Hired
+20,Female,PhD,12,80,68,78,Hired
+44,Male,Master's,13,20,32,87,Not Hired
+26,Male,Bachelor's,9,45,68,48,Hired
+28,Female,Master's,15,15,37,54,Not Hired
+43,Female,Bachelor's,15,15,97,12,Not Hired
+20,Female,Bachelor's,5,83,25,72,Not Hired
+31,Female,Bachelor's,15,28,0,55,Not Hired
+27,Male,Bachelor's,5,91,3,55,Not Hired
+43,Male,Bachelor's,0,7,38,14,Not Hired
+50,Female,Bachelor's,9,87,53,56,Not Hired
+30,Male,Bachelor's,1,2,89,57,Not Hired
+38,Male,Bachelor's,10,88,32,34,Not Hired
+36,Male,Bachelor's,5,18,32,87,Not Hired
+27,Female,Master's,1,96,71,96,Hired
+22,Male,Bachelor's,2,65,19,15,Not Hired
+22,Female,Bachelor's,3,78,15,7,Not Hired
+20,Male,Master's,10,85,20,92,Hired
+46,Male,Bachelor's,4,73,44,86,Not Hired
+24,Male,Bachelor's,14,81,89,44,Not Hired
+29,Female,Bachelor's,8,21,86,94,Hired
+26,Male,Bachelor's,11,45,81,39,Hired
+45,Female,PhD,14,90,61,53,Hired
+28,Female,Bachelor's,14,12,30,13,Not Hired
+47,Female,PhD,3,32,41,58,Not Hired
+26,Male,Bachelor's,12,4,11,93,Not Hired
+28,Male,Bachelor's,10,89,64,52,Hired
+27,Male,Bachelor's,8,76,72,26,Not Hired
+31,Male,Bachelor's,10,26,2,46,Not Hired
+21,Female,Bachelor's,9,77,89,79,Hired
+20,Female,Master's,2,23,8,5,Not Hired
+35,Female,Master's,7,66,50,54,Hired
+42,Male,Bachelor's,11,62,15,96,Not Hired
+42,Female,PhD,0,93,87,43,Hired
+49,Male,Master's,10,98,77,17,Hired
+43,Female,Bachelor's,8,47,2,15,Not Hired
+24,Male,Bachelor's,8,62,97,11,Not Hired
+22,Male,Bachelor's,9,77,96,19,Not Hired
+31,Female,Bachelor's,1,11,23,44,Not Hired
+27,Female,Bachelor's,3,27,72,63,Hired
+41,Female,Bachelor's,12,43,12,58,Not Hired
+46,Female,Master's,7,92,1,92,Hired
+22,Male,Bachelor's,6,42,70,93,Not Hired
+20,Female,Bachelor's,0,16,20,89,Not Hired
+22,Female,PhD,4,39,18,21,Not Hired
+24,Female,Master's,6,48,88,96,Hired
+34,Male,Bachelor's,14,84,46,46,Hired
+33,Male,Master's,15,56,21,28,Not Hired
+22,Female,Bachelor's,3,86,74,85,Not Hired
+20,Male,Bachelor's,14,83,32,44,Hired
+24,Female,Bachelor's,15,63,31,76,Not Hired
+45,Male,Bachelor's,14,74,63,8,Not Hired
+42,Male,Bachelor's,0,56,84,23,Not Hired
+50,Male,Bachelor's,8,97,38,14,Not Hired
+33,Male,Bachelor's,13,73,83,35,Hired
+26,Female,Bachelor's,4,73,71,12,Hired
+46,Female,Bachelor's,10,69,41,90,Hired
+28,Female,Master's,15,99,100,43,Hired
+34,Male,Bachelor's,1,87,8,100,Hired
+34,Female,Bachelor's,7,75,24,70,Not Hired
+45,Female,Bachelor's,10,42,88,71,Hired
+29,Female,Bachelor's,12,22,96,100,Not Hired
+47,Male,Bachelor's,1,26,1,77,Not Hired
+32,Male,Master's,2,57,18,75,Hired
+38,Male,Bachelor's,13,36,19,35,Not Hired
+50,Female,Bachelor's,9,5,92,60,Not Hired
+26,Female,Bachelor's,0,64,69,80,Hired
+36,Female,Bachelor's,10,5,16,39,Not Hired
+39,Male,Bachelor's,15,49,88,92,Hired
+48,Male,Bachelor's,1,21,67,26,Not Hired
+23,Female,Bachelor's,13,87,93,0,Not Hired
+49,Male,Bachelor's,15,24,83,33,Not Hired
+24,Male,Bachelor's,6,78,2,67,Hired
+42,Male,Bachelor's,9,89,86,87,Hired
+26,Male,Master's,1,71,50,20,Not Hired
+32,Female,Master's,5,50,81,32,Not Hired
+34,Male,Master's,14,87,25,6,Hired
+30,Male,Bachelor's,2,47,55,64,Not Hired
+48,Male,Bachelor's,3,69,99,2,Not Hired
+23,Male,Bachelor's,10,98,63,50,Not Hired
+32,Female,Bachelor's,14,64,7,78,Hired
+26,Female,Bachelor's,12,59,80,94,Hired
+46,Male,Bachelor's,7,45,94,53,Hired
+38,Male,Bachelor's,13,35,36,79,Hired
+41,Male,PhD,2,57,96,73,Not Hired
+47,Male,Bachelor's,9,75,26,92,Not Hired
+21,Male,Bachelor's,5,37,44,58,Not Hired
+29,Male,Bachelor's,0,10,3,5,Not Hired
+32,Female,Master's,6,11,85,28,Hired
+49,Male,Bachelor's,7,41,89,16,Hired
+44,Female,Bachelor's,10,38,95,59,Hired
+40,Female,Bachelor's,13,70,87,21,Not Hired
+25,Male,Bachelor's,7,10,98,23,Hired
+47,Female,Bachelor's,2,35,36,80,Not Hired
+47,Female,Master's,13,51,95,84,Hired
+31,Female,Bachelor's,9,30,70,50,Not Hired
+31,Female,Bachelor's,0,32,32,49,Not Hired
+39,Female,Bachelor's,8,12,30,10,Not Hired
+49,Female,Bachelor's,12,17,54,55,Hired
+49,Male,Bachelor's,5,40,11,70,Not Hired
+30,Female,Bachelor's,10,57,10,41,Not Hired
+45,Female,Bachelor's,8,55,87,38,Not Hired
+42,Female,Bachelor's,6,23,71,68,Not Hired
+47,Male,Bachelor's,0,72,31,47,Not Hired
+44,Female,Bachelor's,11,30,56,56,Not Hired
+26,Male,Bachelor's,11,54,37,20,Not Hired
+49,Female,Master's,0,9,59,81,Not Hired
+20,Male,Bachelor's,5,59,85,98,Not Hired
+20,Male,Bachelor's,4,1,97,19,Not Hired
+44,Female,Master's,8,14,18,14,Not Hired
+46,Female,Bachelor's,1,2,83,68,Not Hired
+49,Male,Master's,7,42,55,76,Hired
+44,Female,Bachelor's,10,30,13,50,Not Hired
+39,Male,PhD,4,69,32,75,Not Hired
+32,Male,Bachelor's,1,66,9,61,Not Hired
+28,Male,Bachelor's,12,55,79,84,Not Hired
+22,Male,Bachelor's,9,62,63,36,Not Hired
+26,Male,PhD,10,74,63,5,Hired
+25,Female,Master's,10,14,61,70,Hired
+27,Male,Bachelor's,11,91,67,25,Not Hired
+46,Male,Bachelor's,5,9,90,7,Not Hired
+28,Female,PhD,9,37,91,72,Hired
+49,Male,Bachelor's,7,46,42,90,Not Hired
+24,Female,Master's,3,56,79,3,Not Hired
+20,Female,Master's,1,49,58,20,Not Hired
+38,Female,Bachelor's,11,70,51,30,Hired
+29,Male,Bachelor's,10,14,96,20,Hired
+31,Male,Bachelor's,4,17,18,24,Not Hired
+43,Male,Bachelor's,14,81,20,14,Not Hired
+34,Female,Master's,11,87,21,34,Not Hired
+46,Male,Bachelor's,1,1,8,48,Not Hired
+41,Female,Master's,1,83,8,42,Hired
+43,Male,Bachelor's,14,97,72,40,Hired
+28,Female,PhD,5,42,26,36,Not Hired
+39,Male,Bachelor's,15,25,16,56,Not Hired
+36,Male,Bachelor's,10,70,43,41,Not Hired
+49,Male,Bachelor's,9,37,44,46,Not Hired
+36,Female,Master's,8,93,7,91,Hired
+45,Female,Bachelor's,12,41,79,60,Not Hired
+39,Male,Master's,3,4,17,13,Not Hired
+31,Male,Bachelor's,5,10,32,67,Not Hired
+49,Female,Bachelor's,15,64,0,52,Not Hired
+26,Female,Bachelor's,6,33,75,83,Not Hired
+21,Female,Bachelor's,12,0,5,33,Not Hired
+22,Male,Bachelor's,10,82,40,75,Not Hired
+36,Female,PhD,5,1,54,96,Hired
+24,Male,PhD,7,84,4,23,Hired
+36,Female,PhD,3,19,58,19,Hired
+43,Male,Master's,11,60,79,68,Hired
+36,Female,Bachelor's,14,86,17,29,Not Hired
+46,Female,Bachelor's,0,20,48,87,Not Hired
+36,Female,Bachelor's,6,87,81,6,Hired
+21,Female,Master's,2,67,64,35,Not Hired
+21,Female,Bachelor's,13,11,82,37,Not Hired
+47,Male,Bachelor's,5,21,53,79,Not Hired
+41,Female,Bachelor's,1,19,60,51,Not Hired
+42,Female,Bachelor's,8,81,7,14,Hired
+24,Female,Master's,0,0,2,45,Not Hired
+20,Male,Master's,5,29,24,22,Not Hired
+20,Female,Bachelor's,5,96,68,11,Not Hired
+38,Male,PhD,4,23,54,92,Not Hired
+49,Female,Bachelor's,15,13,39,43,Not Hired
+21,Female,Bachelor's,12,35,82,14,Not Hired
+40,Male,Bachelor's,4,68,81,92,Not Hired
+31,Female,Bachelor's,0,74,49,48,Not Hired
+45,Male,Bachelor's,9,23,94,20,Hired
+25,Male,PhD,11,59,32,14,Hired
+42,Female,Bachelor's,4,94,17,13,Not Hired
+23,Male,Master's,1,54,56,41,Not Hired
+42,Female,Bachelor's,6,76,15,79,Hired
+30,Female,Bachelor's,2,79,79,14,Not Hired
+43,Male,Bachelor's,12,23,37,62,Not Hired
+46,Male,Bachelor's,14,76,40,67,Not Hired
+36,Male,Bachelor's,3,23,6,26,Not Hired
+50,Male,PhD,2,53,77,86,Not Hired
+25,Female,Bachelor's,2,25,52,92,Not Hired
+43,Female,Bachelor's,3,65,62,52,Not Hired
+24,Male,Bachelor's,4,79,88,51,Not Hired
+39,Female,Bachelor's,0,37,31,62,Not Hired
+21,Female,Bachelor's,3,64,37,72,Not Hired
+25,Female,Bachelor's,11,74,21,52,Not Hired
+41,Female,Bachelor's,11,50,15,56,Not Hired
+30,Male,Bachelor's,10,34,51,51,Not Hired
+50,Male,Bachelor's,7,42,28,42,Not Hired
+35,Female,Bachelor's,9,28,15,6,Not Hired
+35,Male,Bachelor's,6,36,75,41,Not Hired
+20,Male,Bachelor's,8,80,16,3,Not Hired
+28,Male,PhD,4,57,100,68,Not Hired
+47,Female,Bachelor's,12,53,63,4,Not Hired
+46,Female,Bachelor's,14,38,90,74,Hired
+25,Female,Bachelor's,9,41,88,91,Not Hired
+35,Male,PhD,3,27,12,79,Hired
+48,Female,Bachelor's,7,28,71,40,Not Hired
+22,Female,Bachelor's,8,42,55,93,Hired
+39,Male,Master's,12,2,4,3,Not Hired
+47,Female,Bachelor's,6,9,11,1,Not Hired
+46,Female,Bachelor's,13,58,40,66,Not Hired
+23,Male,Bachelor's,15,13,2,20,Not Hired
+38,Male,Bachelor's,6,75,98,69,Hired
+45,Male,PhD,15,46,32,42,Not Hired
+22,Female,Master's,4,41,85,81,Not Hired
+50,Female,Bachelor's,3,93,49,68,Not Hired
+38,Female,Bachelor's,13,31,55,8,Not Hired
+39,Male,Bachelor's,9,31,8,83,Not Hired
+26,Male,Bachelor's,0,41,81,27,Not Hired
+39,Female,Master's,9,31,49,25,Not Hired
+28,Female,Bachelor's,9,25,28,81,Not Hired
+20,Male,Bachelor's,6,0,38,82,Not Hired
+27,Male,Master's,15,55,90,2,Hired
+26,Male,Bachelor's,0,1,99,72,Not Hired
+37,Male,Bachelor's,0,80,44,99,Not Hired
+27,Female,Bachelor's,4,29,16,94,Not Hired
+20,Male,PhD,12,70,55,48,Not Hired
+30,Female,Bachelor's,8,51,97,16,Hired
+47,Female,Bachelor's,5,90,45,62,Hired
+44,Female,Bachelor's,2,8,66,54,Not Hired
+44,Male,Bachelor's,12,21,68,22,Not Hired
+37,Male,Master's,2,33,13,33,Not Hired
+42,Male,Master's,6,48,66,68,Hired
+50,Male,Bachelor's,5,0,22,14,Not Hired
+49,Female,Bachelor's,8,72,93,46,Not Hired
+29,Male,Bachelor's,5,83,60,2,Not Hired
+22,Male,Bachelor's,4,52,22,82,Not Hired
+26,Female,Bachelor's,9,82,26,27,Not Hired
+47,Male,Master's,6,99,53,2,Hired
+35,Female,Bachelor's,0,39,9,3,Not Hired
+45,Female,Bachelor's,11,44,88,87,Not Hired
+35,Female,Bachelor's,6,67,76,30,Not Hired
+44,Female,Master's,15,8,15,44,Not Hired
+39,Female,Master's,2,21,40,58,Not Hired
+47,Female,Master's,13,17,97,44,Hired
+36,Female,Bachelor's,8,75,54,74,Hired
+21,Female,Bachelor's,14,42,100,36,Hired
+20,Male,Master's,5,38,60,64,Not Hired
+35,Male,Bachelor's,8,72,85,8,Not Hired
+49,Male,Bachelor's,12,5,80,16,Not Hired
+31,Male,Master's,14,82,86,64,Hired
+24,Female,Master's,4,47,99,2,Hired
+24,Male,Bachelor's,6,6,48,25,Not Hired
+46,Female,Bachelor's,12,79,72,52,Hired
+42,Male,Bachelor's,15,68,51,30,Not Hired
+28,Male,Bachelor's,13,15,1,25,Not Hired
+28,Male,Bachelor's,3,0,95,22,Not Hired
+22,Female,Master's,14,36,49,29,Hired
+38,Male,Master's,15,82,85,9,Hired
+35,Female,Master's,6,36,42,71,Not Hired
+35,Female,Bachelor's,12,80,76,88,Hired
+22,Male,Master's,0,63,7,63,Not Hired
+39,Male,Master's,6,89,58,21,Hired
+43,Male,Bachelor's,7,85,64,14,Hired
+41,Female,Master's,4,61,80,55,Not Hired
+43,Male,Master's,1,71,11,73,Not Hired
+20,Female,Bachelor's,4,60,3,19,Not Hired
+43,Female,Bachelor's,5,32,76,46,Not Hired
+39,Male,Bachelor's,11,65,94,86,Not Hired
+30,Male,Bachelor's,1,29,40,52,Not Hired
+36,Female,Bachelor's,13,19,6,52,Not Hired
+27,Female,Master's,5,59,86,0,Not Hired
+23,Female,Bachelor's,5,81,87,1,Hired
+25,Male,Bachelor's,0,73,68,57,Hired
+27,Female,Bachelor's,13,23,68,18,Not Hired
+39,Male,Bachelor's,0,3,80,61,Not Hired
+49,Female,Bachelor's,13,36,29,77,Hired
+22,Female,Bachelor's,10,3,72,71,Not Hired
+35,Male,Bachelor's,15,76,5,11,Hired
+49,Female,Bachelor's,9,88,88,25,Not Hired
+44,Male,Bachelor's,2,76,18,26,Not Hired
+22,Male,Bachelor's,13,17,79,28,Not Hired
+44,Female,Master's,9,87,84,14,Hired
+48,Male,Bachelor's,9,65,65,45,Hired
+37,Male,Master's,14,47,9,0,Not Hired
+33,Female,Bachelor's,11,32,15,59,Not Hired
+37,Male,Bachelor's,2,57,36,91,Not Hired
+21,Male,Master's,3,82,78,56,Hired
+41,Male,Bachelor's,1,72,76,2,Not Hired
+22,Female,Bachelor's,8,27,76,17,Not Hired
+35,Male,Bachelor's,9,34,31,51,Not Hired
+48,Female,Bachelor's,11,9,46,59,Not Hired
+28,Female,Bachelor's,10,64,71,33,Not Hired
+23,Male,Bachelor's,13,41,42,95,Hired
+20,Male,Bachelor's,6,84,81,92,Hired
+23,Male,Bachelor's,6,8,35,88,Not Hired
+20,Female,Bachelor's,14,59,25,59,Not Hired
+33,Male,Master's,5,14,9,25,Not Hired
+40,Male,PhD,14,98,30,71,Hired
+35,Male,Bachelor's,2,56,96,18,Not Hired
+39,Male,Master's,5,68,28,21,Not Hired
+43,Male,Bachelor's,14,21,4,92,Not Hired
+27,Female,Bachelor's,13,63,76,32,Not Hired
+26,Female,Bachelor's,11,40,0,37,Not Hired
+22,Male,Master's,7,86,86,34,Hired
+36,Male,Bachelor's,7,70,2,66,Not Hired
+20,Male,Bachelor's,10,55,66,82,Not Hired
+35,Male,Bachelor's,12,22,70,9,Not Hired
+31,Female,Master's,8,24,99,90,Hired
+46,Male,Master's,14,90,34,14,Not Hired
+38,Female,Master's,0,5,14,10,Not Hired
+41,Female,Bachelor's,13,33,66,89,Not Hired
+42,Male,Bachelor's,0,62,92,23,Not Hired
+41,Female,Bachelor's,2,8,29,76,Not Hired
+33,Female,Bachelor's,2,59,81,95,Not Hired
+49,Female,Bachelor's,9,48,74,100,Not Hired
+25,Female,Bachelor's,7,96,42,3,Not Hired
+25,Male,PhD,14,50,59,12,Not Hired
+32,Male,Master's,9,59,39,72,Hired
+38,Female,Master's,0,69,64,56,Hired
+41,Male,PhD,12,36,28,97,Hired
+27,Male,Bachelor's,1,30,73,36,Not Hired
+46,Male,Bachelor's,1,97,91,47,Not Hired
+46,Male,PhD,2,40,94,70,Hired
+21,Male,Bachelor's,12,61,18,0,Not Hired
+40,Female,Master's,5,92,2,59,Not Hired
+49,Male,Bachelor's,0,57,35,11,Not Hired
+20,Male,Bachelor's,1,13,42,20,Not Hired
+47,Male,Bachelor's,12,35,14,10,Not Hired
+34,Male,PhD,15,35,96,43,Hired
+20,Female,Master's,14,78,40,57,Not Hired
+24,Female,Bachelor's,12,7,89,43,Hired
+47,Female,Master's,15,25,79,77,Hired
+48,Female,Bachelor's,0,35,35,97,Not Hired
+35,Male,Bachelor's,4,47,96,33,Not Hired
+38,Female,Bachelor's,15,84,83,24,Hired
+23,Male,Bachelor's,12,27,76,3,Not Hired
+22,Male,Bachelor's,12,67,32,63,Not Hired
+36,Male,PhD,6,61,4,89,Not Hired
+36,Male,Master's,15,79,100,15,Hired
+31,Male,Bachelor's,7,85,77,9,Hired
+47,Female,Bachelor's,9,75,90,65,Hired
+49,Female,PhD,0,79,86,34,Hired
+48,Female,PhD,6,50,13,82,Not Hired
+33,Female,Master's,12,41,67,5,Hired
+40,Male,Bachelor's,4,100,82,18,Not Hired
+25,Female,Bachelor's,9,28,46,58,Not Hired
+22,Male,Bachelor's,0,81,53,52,Hired
+47,Female,Bachelor's,2,9,3,7,Not Hired
+28,Male,Bachelor's,6,38,93,77,Not Hired
+24,Male,PhD,9,81,82,9,Hired
+43,Female,Bachelor's,0,0,94,66,Hired
+48,Male,Bachelor's,6,38,94,37,Hired
+36,Male,Bachelor's,4,20,8,28,Not Hired
+33,Female,Bachelor's,0,64,52,14,Not Hired
+40,Male,Bachelor's,0,14,76,86,Hired
+50,Female,Bachelor's,13,3,77,22,Not Hired
+22,Female,Bachelor's,0,59,59,81,Not Hired
+47,Female,Master's,10,60,45,45,Not Hired
+20,Male,PhD,8,19,53,82,Hired
+39,Male,Bachelor's,10,9,73,27,Not Hired
+50,Male,Bachelor's,12,86,94,25,Hired
+48,Female,Master's,2,33,36,9,Not Hired
+40,Male,Bachelor's,14,47,22,46,Not Hired
+42,Female,Bachelor's,12,32,26,3,Not Hired
+20,Female,Master's,4,97,69,54,Not Hired
+22,Male,Bachelor's,10,60,89,65,Not Hired
+37,Female,Bachelor's,15,9,65,66,Not Hired
+44,Male,Bachelor's,9,53,60,6,Not Hired
+29,Male,Bachelor's,11,83,76,54,Hired
+50,Male,Bachelor's,15,64,50,79,Not Hired
+41,Male,Master's,8,76,49,30,Hired
+45,Male,Bachelor's,5,0,18,73,Not Hired
+22,Female,Bachelor's,11,4,0,18,Not Hired
+27,Female,Master's,8,79,39,27,Hired
+33,Female,Bachelor's,7,14,31,80,Hired
+43,Male,Bachelor's,7,27,21,27,Not Hired
+37,Male,Master's,0,94,92,18,Not Hired
+34,Male,Bachelor's,12,22,65,100,Not Hired
+41,Female,Master's,8,16,39,86,Hired
+42,Male,Master's,5,97,37,19,Not Hired
+21,Female,Bachelor's,15,12,47,12,Not Hired
+50,Female,Bachelor's,8,13,54,76,Not Hired
+46,Male,PhD,2,10,74,42,Not Hired
+29,Male,Bachelor's,11,27,80,10,Not Hired
+21,Female,Master's,2,41,54,47,Not Hired
+45,Male,Bachelor's,5,95,50,14,Not Hired
+36,Female,Bachelor's,8,98,59,16,Not Hired
+27,Male,Bachelor's,6,60,7,53,Not Hired
+20,Male,PhD,13,63,85,49,Not Hired
+28,Female,PhD,12,30,67,27,Not Hired
+30,Male,Bachelor's,2,80,74,82,Not Hired
+41,Female,Bachelor's,2,72,71,3,Hired
+35,Male,Master's,1,9,8,21,Not Hired
+26,Female,Bachelor's,8,7,89,85,Not Hired
+48,Female,Bachelor's,12,20,1,100,Not Hired
+29,Male,Bachelor's,14,76,79,38,Not Hired
+42,Female,Bachelor's,2,58,94,33,Not Hired
+45,Male,PhD,10,49,69,96,Hired
+22,Male,Bachelor's,4,68,84,43,Not Hired
+37,Male,Bachelor's,13,69,89,41,Not Hired
+44,Female,Bachelor's,13,29,58,39,Hired
+43,Female,Master's,8,94,18,96,Hired
+32,Male,Bachelor's,7,16,27,11,Not Hired
+47,Male,Bachelor's,1,74,71,1,Not Hired
+45,Female,Bachelor's,2,19,13,27,Not Hired
+26,Male,Master's,15,47,23,73,Not Hired
+44,Male,Bachelor's,15,72,43,85,Not Hired
+23,Female,Bachelor's,1,1,100,80,Not Hired
+32,Male,Bachelor's,15,36,55,89,Hired
+39,Female,Bachelor's,7,0,89,66,Not Hired
+20,Male,Bachelor's,5,3,94,70,Hired
+27,Female,Master's,5,99,50,71,Hired
+33,Male,Bachelor's,11,53,31,83,Not Hired
+35,Male,Master's,14,24,49,75,Not Hired
+33,Female,Bachelor's,8,2,40,98,Not Hired
+31,Male,Master's,7,8,65,80,Hired
+38,Female,Bachelor's,3,85,24,91,Not Hired
+42,Male,Bachelor's,14,86,60,9,Not Hired
+34,Female,PhD,11,75,65,85,Hired
+47,Female,Master's,3,73,41,56,Not Hired
+21,Female,Bachelor's,8,33,64,96,Hired
+21,Female,Bachelor's,0,42,35,85,Not Hired
+42,Male,Master's,12,73,75,36,Hired
+50,Male,Bachelor's,1,93,8,76,Not Hired
+41,Female,Master's,1,21,35,90,Not Hired
+38,Female,Master's,12,69,91,63,Hired
+44,Female,Bachelor's,12,1,37,78,Not Hired
+45,Male,Bachelor's,5,93,32,85,Not Hired
+50,Male,Bachelor's,14,65,41,93,Not Hired
+49,Male,Bachelor's,3,31,60,39,Not Hired
+48,Male,Bachelor's,15,15,45,100,Hired
+41,Female,PhD,12,75,85,97,Hired
+45,Female,Bachelor's,10,0,88,59,Hired
+45,Female,Master's,9,71,60,97,Hired
+41,Male,Bachelor's,12,47,17,47,Not Hired
+36,Male,Bachelor's,2,49,69,98,Hired
+39,Male,Bachelor's,2,12,81,18,Not Hired
+29,Female,Bachelor's,2,14,79,71,Not Hired
+25,Female,Bachelor's,5,52,14,32,Not Hired
+34,Male,Bachelor's,13,43,47,43,Not Hired
+41,Female,Master's,15,7,71,91,Hired
+30,Male,Bachelor's,7,73,12,36,Not Hired
+47,Male,Bachelor's,10,45,42,88,Not Hired
+24,Female,Bachelor's,6,68,59,35,Not Hired
+20,Male,Bachelor's,13,18,56,80,Not Hired
+27,Female,Bachelor's,3,37,70,87,Hired
+40,Male,Bachelor's,10,10,16,20,Not Hired
+47,Female,Bachelor's,11,42,49,1,Not Hired
+31,Female,Bachelor's,3,19,31,30,Not Hired
+31,Female,Bachelor's,10,19,21,96,Hired
+24,Male,Master's,9,20,54,29,Not Hired
+26,Male,Bachelor's,14,81,56,75,Hired
+23,Female,Bachelor's,10,56,12,43,Not Hired
+25,Female,Bachelor's,15,49,46,11,Not Hired
+32,Male,Bachelor's,10,73,86,50,Not Hired
+39,Male,Master's,13,97,61,48,Hired
+49,Male,Bachelor's,10,25,53,23,Not Hired
+34,Female,Bachelor's,1,29,28,23,Not Hired
+22,Male,Bachelor's,13,72,21,59,Not Hired
+42,Male,Bachelor's,15,30,64,10,Hired
+27,Female,Bachelor's,0,41,28,12,Not Hired
+39,Male,Bachelor's,8,67,47,90,Not Hired
+35,Male,Master's,11,60,4,71,Not Hired
+32,Male,Bachelor's,14,60,34,73,Not Hired
+37,Female,Bachelor's,11,69,73,71,Not Hired
+47,Female,Bachelor's,1,77,82,63,Not Hired
+29,Female,Bachelor's,12,67,100,19,Not Hired
+49,Female,Bachelor's,7,89,70,71,Hired
+38,Female,Master's,14,16,45,72,Not Hired
+36,Female,Master's,15,18,34,70,Not Hired
+43,Female,Bachelor's,8,50,44,77,Not Hired
+50,Male,Master's,3,69,12,27,Not Hired
+38,Male,PhD,7,62,9,1,Hired
+47,Female,Master's,8,92,65,42,Hired
+45,Male,Bachelor's,9,74,69,7,Not Hired
+42,Male,Master's,9,79,71,12,Hired
+45,Female,Bachelor's,4,29,99,84,Hired
+24,Male,PhD,15,24,24,91,Hired
+45,Male,Bachelor's,12,74,43,34,Not Hired
+40,Male,Bachelor's,13,70,59,22,Not Hired
+49,Male,Master's,6,25,46,45,Not Hired
+42,Male,Bachelor's,15,55,39,14,Not Hired
+50,Female,PhD,9,21,6,1,Not Hired
+28,Female,PhD,3,88,45,60,Hired
+31,Female,Bachelor's,0,18,22,75,Not Hired
+40,Male,Bachelor's,2,30,82,63,Not Hired
+20,Female,Bachelor's,4,25,45,51,Not Hired
+45,Male,Bachelor's,2,41,85,35,Not Hired
+45,Male,Bachelor's,15,40,12,66,Not Hired
+20,Male,Master's,11,99,20,68,Hired
+34,Male,Bachelor's,12,22,0,66,Not Hired
+21,Female,Bachelor's,10,46,18,46,Not Hired
+49,Female,PhD,6,12,59,82,Hired
+41,Male,Bachelor's,11,88,32,1,Not Hired
+35,Female,Bachelor's,8,65,3,43,Not Hired
+44,Male,PhD,14,65,2,100,Not Hired
+27,Female,Bachelor's,11,15,90,63,Not Hired
+32,Female,Master's,5,72,51,80,Hired
+40,Male,PhD,12,27,98,77,Hired
+20,Female,PhD,9,76,27,27,Hired
+35,Male,Bachelor's,0,34,69,90,Not Hired
+48,Female,Bachelor's,15,40,69,53,Not Hired
+26,Male,Bachelor's,6,76,54,73,Hired
+50,Male,Master's,14,30,56,66,Hired
+24,Female,Master's,2,84,86,35,Not Hired
+41,Female,Bachelor's,4,31,96,62,Hired
+48,Male,Bachelor's,15,53,15,24,Not Hired
+42,Female,Bachelor's,9,97,23,85,Not Hired
+22,Female,Bachelor's,3,71,68,47,Hired
+31,Male,Master's,9,58,40,38,Not Hired
+45,Male,Bachelor's,4,40,76,46,Not Hired
+35,Female,PhD,4,65,46,93,Not Hired
+38,Male,Master's,5,95,75,20,Not Hired
+24,Male,Bachelor's,13,53,68,29,Not Hired
+41,Male,Bachelor's,9,39,100,91,Not Hired
+44,Female,Bachelor's,11,27,30,30,Not Hired
+48,Female,Bachelor's,9,36,91,25,Not Hired
+33,Male,Master's,12,64,91,21,Not Hired
+47,Female,Master's,12,73,29,20,Not Hired
+24,Male,Master's,10,54,17,0,Not Hired
+34,Female,Bachelor's,5,3,43,36,Not Hired
+36,Male,Bachelor's,15,98,26,76,Not Hired
+49,Male,Master's,7,9,98,84,Hired
+33,Female,Bachelor's,7,46,25,45,Not Hired
+49,Male,Bachelor's,10,74,59,8,Not Hired
+39,Female,Bachelor's,8,13,17,16,Not Hired
+24,Female,Bachelor's,7,37,96,46,Not Hired
+31,Male,Bachelor's,12,11,88,84,Not Hired
+35,Male,Bachelor's,10,44,55,94,Not Hired
+45,Female,PhD,1,16,30,58,Not Hired
+45,Male,Bachelor's,13,79,100,53,Not Hired
+35,Male,Bachelor's,13,34,58,85,Not Hired
+40,Male,Bachelor's,11,65,1,11,Not Hired
+26,Male,Master's,9,74,96,63,Hired
+23,Male,Bachelor's,11,40,38,5,Not Hired
+20,Female,Bachelor's,10,66,60,52,Not Hired
+49,Female,Bachelor's,14,28,62,15,Not Hired
+49,Male,Master's,15,17,95,89,Hired
+24,Male,Bachelor's,0,19,17,4,Not Hired
+42,Male,Master's,9,13,16,72,Not Hired
+45,Female,PhD,1,33,97,45,Not Hired
+29,Male,Bachelor's,1,48,38,13,Not Hired
+41,Female,Master's,11,53,70,43,Not Hired
+24,Female,Bachelor's,2,30,53,62,Not Hired
+23,Female,Master's,9,57,98,93,Hired
+21,Male,Bachelor's,6,41,93,51,Not Hired
+39,Female,Master's,1,57,75,25,Not Hired
+50,Male,Bachelor's,13,81,34,52,Hired
+29,Female,Bachelor's,15,29,10,28,Not Hired
+45,Male,Bachelor's,0,24,60,18,Not Hired
+38,Female,Bachelor's,15,62,43,46,Not Hired
+45,Male,Bachelor's,13,18,67,7,Hired
+20,Female,Bachelor's,5,71,24,22,Not Hired
+43,Male,Bachelor's,8,91,47,34,Not Hired
+24,Male,Bachelor's,14,7,31,94,Not Hired
+32,Male,Master's,2,94,83,52,Not Hired
+23,Male,Bachelor's,5,2,94,98,Not Hired
+35,Female,Bachelor's,2,66,3,95,Not Hired
+43,Female,Bachelor's,13,85,37,57,Not Hired
+35,Male,Bachelor's,12,80,62,4,Not Hired
+42,Female,PhD,0,99,46,15,Hired
+21,Male,Bachelor's,13,16,0,16,Not Hired
+36,Male,Master's,12,13,2,31,Not Hired
+47,Female,PhD,15,8,100,95,Hired
+46,Male,Master's,11,61,85,51,Not Hired
+39,Male,Bachelor's,4,93,61,19,Not Hired
+43,Female,Master's,9,20,63,65,Hired
+31,Male,PhD,13,75,16,83,Hired
+37,Male,Bachelor's,12,36,77,81,Not Hired
+22,Male,Bachelor's,10,95,61,0,Not Hired
+47,Male,Bachelor's,3,10,34,57,Not Hired
+20,Female,Bachelor's,6,19,12,92,Not Hired
+20,Female,Bachelor's,5,34,34,92,Not Hired
+48,Female,Bachelor's,9,52,42,82,Not Hired
+38,Male,Bachelor's,6,46,1,43,Not Hired
+30,Male,Bachelor's,4,74,55,5,Hired
+24,Female,Bachelor's,14,51,76,49,Not Hired
+31,Male,Bachelor's,14,7,50,71,Not Hired
+22,Male,Bachelor's,3,3,53,87,Not Hired
+20,Male,Bachelor's,15,26,15,19,Not Hired
+20,Male,Bachelor's,6,43,17,13,Not Hired
+27,Female,Master's,6,39,6,4,Not Hired
+29,Female,Bachelor's,5,46,44,40,Not Hired
+30,Female,Bachelor's,7,93,35,39,Not Hired
+31,Male,Master's,3,43,40,33,Not Hired
+48,Female,Bachelor's,9,47,93,79,Hired
+32,Female,Bachelor's,4,90,41,44,Not Hired
+31,Male,Master's,3,84,6,70,Not Hired
+50,Male,Master's,11,51,14,79,Hired
+33,Female,Bachelor's,0,83,59,70,Not Hired
+21,Female,Bachelor's,11,67,39,26,Not Hired
+48,Female,PhD,7,10,82,77,Hired
+38,Female,Bachelor's,0,76,36,77,Not Hired
+37,Male,Bachelor's,4,72,65,43,Not Hired
+22,Female,Master's,14,3,54,32,Not Hired
+42,Female,Bachelor's,5,75,76,32,Not Hired
+36,Male,Bachelor's,5,72,94,43,Not Hired
+45,Female,Bachelor's,12,76,79,19,Hired
+27,Male,Master's,4,47,55,35,Not Hired
+48,Male,Bachelor's,15,25,43,6,Not Hired
+45,Male,Bachelor's,2,76,56,31,Not Hired
+29,Female,Bachelor's,14,38,5,66,Not Hired
+45,Female,Bachelor's,4,91,91,38,Not Hired
+49,Male,Bachelor's,11,57,31,92,Hired
+21,Female,Master's,7,18,73,23,Hired
+38,Female,Bachelor's,13,87,17,85,Not Hired
+28,Male,Bachelor's,1,82,67,69,Not Hired
+26,Male,Master's,15,76,72,87,Hired
+23,Female,Bachelor's,5,76,6,86,Not Hired
+45,Male,PhD,8,57,7,53,Hired
+40,Female,Bachelor's,7,27,63,37,Not Hired
+37,Female,Bachelor's,13,65,6,73,Not Hired
+32,Female,Bachelor's,10,9,40,79,Not Hired
+30,Female,PhD,7,85,39,74,Hired
+48,Male,Bachelor's,7,76,2,31,Not Hired
+43,Male,Bachelor's,14,57,16,44,Not Hired
+23,Male,Bachelor's,12,72,65,60,Hired
+44,Male,Bachelor's,6,96,78,69,Hired
+40,Female,Bachelor's,7,13,92,87,Hired
+48,Female,PhD,12,83,51,96,Hired
+44,Male,Bachelor's,5,14,21,52,Not Hired
+23,Female,Master's,1,95,3,50,Not Hired
+29,Female,Bachelor's,1,32,5,75,Not Hired
+24,Female,Bachelor's,7,16,37,55,Not Hired
+28,Male,Bachelor's,10,23,25,26,Not Hired
+43,Male,Bachelor's,0,29,10,37,Not Hired
+22,Male,Master's,5,61,89,61,Not Hired
+36,Female,PhD,12,12,16,17,Hired
+22,Male,Bachelor's,15,61,87,63,Not Hired
+35,Male,Bachelor's,5,46,91,76,Not Hired
+23,Male,Bachelor's,15,15,98,29,Not Hired
+37,Male,PhD,10,65,30,48,Not Hired
+36,Male,Bachelor's,3,80,76,40,Not Hired
+26,Male,Bachelor's,11,95,34,12,Hired
+43,Female,Master's,10,42,15,33,Hired
+42,Female,Bachelor's,12,7,78,99,Not Hired
+49,Male,Bachelor's,14,2,17,93,Hired
+24,Male,Bachelor's,10,11,100,24,Not Hired
+31,Female,PhD,15,83,61,65,Hired
+36,Female,Bachelor's,12,15,26,99,Not Hired
+42,Male,Bachelor's,9,77,34,17,Hired
+32,Male,Bachelor's,2,79,44,4,Not Hired
+42,Male,Bachelor's,12,58,34,18,Not Hired
+44,Male,Bachelor's,10,48,27,41,Not Hired
+22,Female,Bachelor's,2,62,8,17,Not Hired
+28,Male,Bachelor's,14,61,75,31,Not Hired
+49,Male,Bachelor's,14,48,14,20,Not Hired
+36,Male,Bachelor's,15,50,20,9,Not Hired
+36,Male,Bachelor's,12,32,51,36,Not Hired
+49,Female,Master's,12,29,34,48,Hired
+39,Female,Bachelor's,0,58,96,85,Hired
+35,Female,Master's,2,75,50,12,Not Hired
+44,Male,Master's,3,14,82,54,Not Hired
+41,Male,Bachelor's,10,81,54,16,Not Hired
+32,Female,Bachelor's,10,91,86,8,Not Hired
+46,Male,Bachelor's,4,22,76,87,Not Hired
+38,Male,Bachelor's,2,77,43,43,Not Hired
+36,Female,Bachelor's,5,93,64,77,Not Hired
+23,Female,Bachelor's,10,96,92,45,Hired
+31,Female,Bachelor's,13,44,87,7,Not Hired
+48,Female,Master's,14,61,79,36,Hired
+28,Male,Bachelor's,11,78,24,18,Not Hired
+38,Male,Master's,15,70,86,62,Hired
+31,Female,Bachelor's,4,14,91,91,Not Hired
+28,Male,Master's,2,45,46,45,Not Hired
+26,Female,Bachelor's,5,63,79,93,Hired
+47,Female,Bachelor's,5,45,55,70,Not Hired
+33,Male,Bachelor's,14,55,37,25,Not Hired
+50,Female,Bachelor's,13,43,10,45,Not Hired
+39,Male,Bachelor's,7,74,66,45,Not Hired
+38,Male,PhD,1,28,14,74,Not Hired
+45,Male,Bachelor's,0,94,0,13,Not Hired
+34,Male,Bachelor's,15,61,6,84,Not Hired
+35,Female,Master's,3,88,0,62,Hired
+40,Male,Master's,15,51,48,71,Hired
+24,Female,Bachelor's,6,53,95,2,Not Hired
+22,Female,Bachelor's,14,87,72,27,Hired
+31,Female,Bachelor's,15,56,28,28,Not Hired
+44,Female,Bachelor's,10,82,25,86,Not Hired
+39,Male,Master's,9,65,86,17,Not Hired
+46,Male,PhD,2,21,44,34,Not Hired
+40,Female,Master's,2,19,92,76,Hired
+23,Female,Master's,15,32,96,75,Hired
+40,Male,Bachelor's,4,71,70,46,Not Hired
+42,Female,Master's,4,24,11,4,Not Hired
+35,Male,Master's,12,45,94,74,Hired
+44,Female,Bachelor's,9,72,31,58,Not Hired
+26,Male,Master's,2,97,19,74,Hired
+32,Female,Bachelor's,8,56,50,58,Not Hired
+40,Female,Bachelor's,3,86,80,46,Hired
+29,Male,Master's,12,4,35,94,Not Hired
+45,Female,Bachelor's,12,54,66,94,Not Hired
+26,Female,Bachelor's,14,60,0,12,Not Hired
+33,Male,Bachelor's,2,88,26,77,Hired
+50,Female,Bachelor's,10,7,39,88,Not Hired
+45,Male,PhD,1,15,96,32,Hired
+24,Male,Bachelor's,9,47,83,96,Not Hired
+22,Female,Bachelor's,12,60,13,61,Not Hired
+42,Female,Master's,10,14,99,78,Hired
+48,Female,Bachelor's,8,64,68,15,Not Hired
+30,Female,Bachelor's,3,21,86,43,Not Hired
+30,Female,Bachelor's,15,2,78,57,Not Hired
+37,Female,Master's,2,53,5,5,Not Hired
+34,Female,Bachelor's,6,13,32,88,Not Hired
+31,Male,Bachelor's,7,35,54,14,Not Hired
+28,Female,Bachelor's,10,81,18,3,Not Hired
+29,Male,Bachelor's,13,81,76,55,Hired
+45,Female,Bachelor's,1,66,28,63,Not Hired
+31,Female,Bachelor's,6,9,60,67,Not Hired
+36,Male,Bachelor's,11,48,69,93,Not Hired
+48,Female,Master's,4,64,78,33,Not Hired
+25,Female,Bachelor's,14,90,79,90,Hired
+26,Male,Master's,10,56,23,94,Hired
+33,Female,PhD,4,26,22,55,Not Hired
+32,Female,Master's,2,74,9,31,Not Hired
+27,Female,Bachelor's,4,4,53,8,Not Hired
+29,Male,Bachelor's,11,70,40,62,Not Hired
+28,Female,Bachelor's,1,82,48,71,Hired
+37,Female,Bachelor's,3,56,16,77,Not Hired
+46,Female,Bachelor's,5,92,55,32,Not Hired
+45,Female,PhD,0,14,44,86,Hired
+21,Male,Master's,9,98,29,20,Not Hired
+24,Male,Bachelor's,3,100,43,54,Not Hired
+48,Female,Bachelor's,5,75,73,75,Not Hired
+24,Female,Master's,8,29,54,56,Not Hired
+25,Male,Bachelor's,13,19,18,1,Not Hired
+38,Male,Bachelor's,10,36,28,12,Not Hired
+27,Female,Master's,15,2,1,3,Not Hired
+35,Male,Bachelor's,10,72,35,83,Not Hired
+32,Female,Bachelor's,12,40,18,49,Not Hired
+20,Male,Bachelor's,1,38,6,47,Not Hired
+41,Male,Master's,10,25,25,77,Not Hired
+39,Male,Bachelor's,6,1,78,29,Hired
+36,Male,Bachelor's,5,22,37,28,Not Hired
+50,Female,Bachelor's,1,22,2,7,Not Hired
+26,Male,Bachelor's,7,84,79,11,Not Hired
+44,Male,Bachelor's,6,15,65,40,Not Hired
+32,Female,Master's,10,8,94,25,Not Hired
+23,Male,Bachelor's,4,12,91,49,Not Hired
+23,Male,Master's,11,27,70,1,Not Hired
+25,Female,Bachelor's,4,26,93,54,Not Hired
+47,Male,Bachelor's,6,50,42,55,Not Hired
+50,Female,Bachelor's,8,63,61,13,Not Hired
+38,Female,Bachelor's,10,51,70,5,Not Hired
+48,Female,Bachelor's,14,80,99,94,Hired
+31,Female,Bachelor's,8,37,92,80,Not Hired
+41,Male,Bachelor's,8,99,23,88,Not Hired
+26,Female,Bachelor's,5,64,38,60,Not Hired
+46,Male,Bachelor's,9,17,67,95,Hired
+29,Male,Master's,5,62,92,11,Hired
+45,Male,PhD,2,50,43,12,Not Hired
+38,Male,Bachelor's,0,8,4,18,Not Hired
+26,Male,Bachelor's,15,12,54,43,Hired
+49,Male,Bachelor's,6,39,92,88,Not Hired
+22,Male,Bachelor's,3,54,29,94,Not Hired
+32,Male,Bachelor's,0,78,28,58,Not Hired
+32,Male,Master's,14,42,25,36,Not Hired
+37,Male,Bachelor's,7,43,82,24,Not Hired
+47,Female,Bachelor's,11,67,25,15,Not Hired
+49,Female,Master's,5,32,36,37,Not Hired
+45,Female,Bachelor's,5,23,90,42,Not Hired
+39,Male,Master's,1,35,93,86,Not Hired
+47,Female,Bachelor's,14,9,52,13,Not Hired
+27,Female,Bachelor's,0,99,29,5,Not Hired
+48,Female,Bachelor's,12,19,2,88,Not Hired
+50,Male,Bachelor's,13,74,42,22,Not Hired
+28,Male,PhD,13,11,6,59,Not Hired
+26,Male,Bachelor's,1,61,48,11,Not Hired
+20,Male,PhD,3,17,72,12,Not Hired
+22,Female,Bachelor's,1,93,40,99,Not Hired
+32,Female,Bachelor's,15,100,76,97,Hired
+47,Female,Bachelor's,0,62,78,5,Not Hired
+49,Female,Bachelor's,6,83,53,62,Hired
+44,Male,PhD,10,24,68,37,Not Hired
+50,Male,Bachelor's,10,11,92,49,Not Hired
+47,Male,Bachelor's,14,20,98,51,Not Hired
+36,Female,Bachelor's,11,24,90,39,Not Hired
+44,Male,Bachelor's,7,10,26,7,Not Hired
+43,Male,Bachelor's,5,63,7,60,Not Hired
+20,Female,Bachelor's,3,72,31,7,Not Hired
+25,Female,Master's,13,49,83,96,Hired
+40,Male,Bachelor's,5,61,63,33,Not Hired
+25,Male,Bachelor's,2,88,9,78,Hired
+45,Male,Bachelor's,11,98,12,99,Hired
+31,Male,Bachelor's,7,95,62,59,Not Hired
+32,Male,PhD,9,48,92,56,Not Hired
+32,Male,Bachelor's,13,13,34,98,Not Hired
+48,Female,Bachelor's,12,0,60,45,Not Hired
+34,Female,Bachelor's,12,80,53,21,Not Hired
+40,Female,Bachelor's,1,24,7,86,Not Hired
+35,Male,Bachelor's,4,58,28,39,Not Hired
+41,Female,PhD,0,71,94,44,Not Hired
+40,Male,Master's,5,68,40,54,Not Hired
+30,Male,PhD,1,4,29,50,Not Hired
+47,Female,Bachelor's,3,98,85,85,Not Hired
+24,Male,Bachelor's,5,18,20,4,Not Hired
+23,Male,Bachelor's,9,22,75,94,Not Hired
+22,Female,Bachelor's,10,8,10,12,Not Hired
+38,Female,Master's,7,93,1,27,Not Hired
+39,Female,Bachelor's,11,49,49,83,Not Hired
+44,Male,Master's,7,15,40,96,Hired
+37,Female,Master's,10,32,65,79,Hired
+34,Female,Bachelor's,5,1,97,61,Hired
+28,Male,Bachelor's,3,13,2,92,Not Hired
+36,Female,Bachelor's,7,0,79,86,Not Hired
+33,Female,Bachelor's,12,89,50,23,Not Hired
+34,Female,Master's,7,57,67,97,Hired
+50,Male,Bachelor's,9,88,86,6,Hired
+20,Male,Bachelor's,13,15,83,37,Not Hired
+40,Male,Bachelor's,0,78,24,36,Not Hired
+41,Male,PhD,15,89,29,67,Hired
+41,Female,Bachelor's,3,46,81,97,Not Hired
+22,Male,Master's,3,43,10,41,Not Hired
+35,Male,Bachelor's,6,79,92,85,Hired
+42,Female,Master's,15,13,16,4,Not Hired
+44,Female,Master's,13,92,25,63,Hired
+30,Female,Bachelor's,13,23,22,49,Not Hired
+31,Male,Bachelor's,10,54,55,86,Hired
+29,Male,Master's,6,14,51,14,Not Hired
+35,Male,Bachelor's,15,82,47,94,Hired
+27,Female,Master's,12,71,19,72,Hired
+25,Female,Bachelor's,10,33,1,52,Not Hired
+31,Male,Master's,14,1,87,24,Not Hired
+43,Female,Master's,7,26,30,88,Not Hired
+47,Female,PhD,15,73,26,84,Hired
+40,Female,Bachelor's,10,98,1,8,Not Hired
+27,Male,Bachelor's,4,86,77,37,Hired
+45,Female,Bachelor's,6,71,3,21,Not Hired
+47,Female,Bachelor's,7,91,12,86,Not Hired
+23,Male,Bachelor's,15,22,99,48,Hired
+45,Male,Bachelor's,14,67,34,67,Not Hired
+27,Female,Master's,8,13,71,92,Hired
+45,Female,Bachelor's,2,62,65,14,Not Hired
+47,Male,Bachelor's,2,92,5,64,Not Hired
+37,Male,Bachelor's,3,64,30,53,Not Hired
+47,Female,Bachelor's,4,67,9,29,Not Hired
+47,Female,Bachelor's,9,62,20,92,Hired
+24,Female,PhD,0,95,73,19,Not Hired
+28,Female,PhD,14,96,22,32,Hired
+23,Male,Bachelor's,14,89,2,99,Not Hired
+46,Female,Bachelor's,6,80,31,85,Not Hired
+41,Female,Master's,8,86,19,76,Hired
+50,Male,Bachelor's,7,63,73,6,Not Hired
+36,Female,Bachelor's,14,31,28,7,Not Hired
+28,Male,Bachelor's,14,78,51,27,Not Hired
+20,Female,Bachelor's,4,12,45,44,Not Hired
+40,Female,Bachelor's,13,65,33,72,Not Hired
+39,Male,Bachelor's,13,18,100,88,Not Hired
+32,Male,Bachelor's,3,23,83,79,Hired
+47,Female,PhD,11,87,60,73,Hired
+35,Female,Bachelor's,6,10,71,10,Not Hired
+48,Female,Master's,4,58,70,30,Hired
+32,Male,Master's,6,85,69,11,Hired
+33,Female,Bachelor's,11,14,10,94,Not Hired
+22,Male,Bachelor's,0,9,81,77,Not Hired
+48,Male,Bachelor's,0,40,92,50,Not Hired
+25,Female,Bachelor's,15,26,88,43,Not Hired
+37,Male,Master's,9,59,62,95,Hired
+38,Female,Bachelor's,13,72,20,49,Not Hired
+24,Female,PhD,12,51,2,16,Hired
+34,Female,Bachelor's,2,27,81,34,Not Hired
+44,Female,Bachelor's,13,64,87,0,Not Hired
+21,Female,Bachelor's,10,16,9,28,Not Hired
+29,Male,Bachelor's,1,94,26,50,Not Hired
+43,Male,Bachelor's,1,43,11,63,Not Hired
+49,Female,Bachelor's,6,9,6,3,Not Hired
+37,Female,Bachelor's,11,62,16,86,Not Hired
+46,Male,Bachelor's,9,100,64,27,Hired
+32,Male,PhD,1,92,63,15,Hired
+24,Male,Bachelor's,10,81,25,62,Hired
+42,Male,Master's,3,46,14,75,Not Hired
+43,Female,Master's,1,37,32,52,Not Hired
+20,Female,PhD,5,69,61,84,Hired
+41,Male,Bachelor's,7,75,100,16,Not Hired
+20,Female,Master's,9,52,46,39,Hired
+37,Male,Bachelor's,15,77,94,12,Not Hired
+34,Female,Bachelor's,3,43,34,51,Not Hired
+36,Male,Bachelor's,14,73,64,57,Not Hired
+30,Female,Master's,4,53,71,95,Not Hired
+40,Male,Bachelor's,3,19,75,36,Not Hired
+45,Male,Master's,2,78,82,78,Hired
+50,Female,Bachelor's,4,30,24,75,Not Hired
+44,Male,Master's,13,6,56,60,Not Hired
+41,Female,PhD,8,57,31,78,Hired
+46,Female,Bachelor's,7,9,62,33,Not Hired
+46,Male,PhD,7,9,11,69,Not Hired
+36,Female,Bachelor's,7,38,62,16,Not Hired
+32,Female,Bachelor's,11,27,76,19,Hired
+20,Female,Bachelor's,7,29,91,72,Not Hired
+21,Female,Bachelor's,6,36,0,58,Not Hired
+28,Female,Bachelor's,7,66,50,68,Not Hired
+22,Male,Bachelor's,10,42,69,86,Hired
+50,Female,Bachelor's,13,78,7,32,Not Hired
+20,Female,PhD,15,84,67,77,Hired
+40,Female,Master's,7,51,4,16,Not Hired
+35,Female,Master's,12,100,88,56,Hired
+42,Female,Master's,13,55,85,82,Hired
+25,Male,Master's,7,75,91,96,Hired
+47,Female,Bachelor's,11,67,38,0,Not Hired
+36,Male,Bachelor's,9,8,22,12,Not Hired
+24,Male,Master's,6,91,67,26,Hired
+50,Male,Bachelor's,11,22,51,69,Not Hired
+24,Male,Bachelor's,0,62,3,58,Not Hired
+25,Female,Bachelor's,3,60,46,5,Not Hired
+22,Male,Bachelor's,12,39,20,96,Not Hired
+40,Male,Bachelor's,12,43,100,93,Not Hired
+42,Female,Bachelor's,15,85,55,98,Hired
+24,Female,Bachelor's,3,23,65,22,Not Hired
+40,Female,Bachelor's,4,50,58,9,Not Hired
+24,Male,Bachelor's,9,57,6,50,Not Hired
+29,Female,Bachelor's,5,89,48,18,Not Hired
+29,Female,Master's,3,93,15,50,Not Hired
+38,Male,Bachelor's,14,32,16,91,Hired
+36,Female,Bachelor's,1,15,83,86,Hired
+40,Female,Master's,15,21,86,67,Hired
+33,Female,Bachelor's,5,56,97,83,Not Hired
+28,Female,Bachelor's,14,61,74,82,Not Hired
+33,Male,Bachelor's,7,81,33,41,Not Hired
+20,Female,Master's,14,70,32,90,Not Hired
+38,Female,Bachelor's,7,89,25,56,Not Hired
+32,Male,Bachelor's,6,71,65,97,Hired
+32,Female,Master's,5,69,62,67,Not Hired
+23,Male,Bachelor's,1,29,86,37,Not Hired
+49,Female,Bachelor's,14,22,40,61,Hired
+20,Male,Bachelor's,6,31,85,6,Not Hired
+36,Male,Bachelor's,10,85,57,70,Hired
+27,Male,Bachelor's,11,56,97,49,Not Hired
+21,Male,Bachelor's,13,8,78,51,Not Hired
+47,Female,Master's,15,30,9,25,Not Hired
+50,Male,Bachelor's,13,70,14,25,Not Hired
+27,Female,Bachelor's,4,8,41,18,Not Hired
+26,Male,Bachelor's,15,12,92,8,Hired
+45,Male,Bachelor's,5,57,56,60,Not Hired
+45,Male,Bachelor's,9,2,86,19,Not Hired
+21,Female,Master's,7,34,16,49,Hired
+41,Male,Bachelor's,15,96,59,79,Hired
+41,Female,Master's,13,20,8,80,Not Hired
+22,Female,Master's,7,63,35,21,Not Hired
+46,Female,Bachelor's,2,94,72,12,Hired
+37,Female,Master's,11,51,79,11,Hired
+31,Female,Bachelor's,15,33,35,9,Not Hired
+20,Female,Bachelor's,11,95,47,64,Hired
+41,Female,Bachelor's,13,34,50,95,Not Hired
+31,Female,Bachelor's,6,14,96,29,Not Hired
+24,Female,Bachelor's,0,95,94,7,Not Hired
+49,Male,Bachelor's,0,5,69,20,Not Hired
+49,Male,Bachelor's,6,84,73,21,Hired
+46,Male,Bachelor's,14,96,79,17,Not Hired
+44,Male,Bachelor's,14,31,67,65,Hired
+36,Male,PhD,9,51,21,47,Not Hired
+35,Female,Master's,8,82,76,43,Hired
+50,Female,Bachelor's,6,96,79,8,Hired
+34,Female,Bachelor's,9,27,92,66,Not Hired
+42,Female,Master's,4,94,5,53,Not Hired
+34,Female,Master's,7,84,25,25,Not Hired
+24,Female,Master's,1,97,74,84,Hired
+40,Female,Bachelor's,8,63,87,93,Not Hired
+33,Male,Bachelor's,5,78,92,91,Not Hired
+21,Male,Bachelor's,12,77,2,99,Not Hired
+30,Male,Bachelor's,8,18,51,25,Not Hired
+38,Male,Master's,15,14,73,33,Not Hired
+26,Female,Master's,1,5,59,7,Hired
+25,Female,Bachelor's,2,72,62,9,Not Hired
+47,Female,Master's,11,100,64,47,Hired
+21,Male,Bachelor's,7,83,51,54,Not Hired
+25,Female,Bachelor's,0,97,89,53,Not Hired
+37,Female,Bachelor's,14,37,75,77,Not Hired
+21,Female,PhD,9,25,13,39,Not Hired
+37,Male,Bachelor's,14,81,88,14,Not Hired
+49,Female,PhD,14,91,71,80,Hired
+34,Male,Master's,14,50,67,17,Hired
+46,Male,Bachelor's,6,72,27,95,Not Hired
+38,Male,Bachelor's,6,95,70,22,Not Hired
+50,Male,Master's,12,52,9,61,Not Hired
+21,Female,Bachelor's,0,55,56,45,Not Hired
+39,Male,PhD,15,58,99,86,Hired
+44,Male,PhD,8,69,65,98,Hired
+25,Female,Bachelor's,7,77,89,38,Not Hired
+20,Female,Bachelor's,3,91,49,14,Not Hired
+43,Male,PhD,9,57,13,52,Hired
+34,Female,Bachelor's,10,87,15,87,Not Hired
+47,Male,Bachelor's,4,12,53,63,Not Hired
+49,Male,Bachelor's,1,42,42,62,Not Hired
+42,Male,Bachelor's,12,75,41,91,Not Hired
+29,Male,PhD,15,50,80,79,Hired
+38,Female,Master's,8,18,21,15,Hired
+36,Male,Bachelor's,14,20,67,69,Hired
+24,Female,Bachelor's,11,90,18,65,Not Hired
+48,Female,Bachelor's,11,82,65,12,Not Hired
+23,Female,Master's,5,23,38,46,Not Hired
+29,Female,Bachelor's,2,25,72,8,Not Hired
+43,Male,Bachelor's,11,44,18,62,Hired
+36,Female,Bachelor's,6,27,15,33,Not Hired
+29,Male,Bachelor's,8,81,53,80,Hired
+36,Female,PhD,2,99,24,90,Not Hired
+47,Female,Bachelor's,15,28,17,28,Not Hired
+39,Male,Bachelor's,1,16,22,36,Not Hired
+43,Male,Bachelor's,15,67,84,42,Not Hired
+24,Male,PhD,6,43,10,85,Not Hired
+21,Female,Bachelor's,6,60,38,63,Not Hired
+25,Female,Bachelor's,3,92,67,23,Hired
+40,Male,Bachelor's,10,67,24,70,Not Hired
+21,Male,Master's,8,73,62,33,Hired
+32,Male,Bachelor's,15,24,95,47,Not Hired
+49,Male,Bachelor's,13,94,29,11,Not Hired
+30,Female,Bachelor's,7,66,44,22,Not Hired
+30,Male,Master's,12,1,89,78,Hired
+35,Male,Bachelor's,12,88,60,96,Hired
+30,Male,Master's,0,48,99,12,Not Hired
+38,Male,Bachelor's,0,69,50,86,Not Hired
+34,Female,Bachelor's,4,25,97,95,Hired
+44,Male,Bachelor's,5,71,8,44,Not Hired
+42,Female,Master's,2,98,75,98,Hired
+42,Male,Bachelor's,12,26,1,64,Hired
+35,Male,Master's,8,88,4,46,Not Hired
+50,Female,Master's,11,17,61,57,Not Hired
+30,Male,Bachelor's,9,53,68,4,Hired
+41,Female,Master's,13,0,51,76,Hired
+35,Female,Master's,14,60,85,4,Hired
+27,Male,Bachelor's,5,2,4,59,Not Hired
+23,Female,Bachelor's,3,67,58,95,Hired
+27,Female,PhD,11,40,67,20,Not Hired
+23,Female,Bachelor's,6,36,8,23,Not Hired
+43,Female,Master's,7,50,92,17,Hired
+44,Female,PhD,8,14,21,20,Hired
+22,Female,Bachelor's,12,7,26,53,Not Hired
+22,Female,Bachelor's,15,37,9,9,Not Hired
+46,Female,Bachelor's,10,82,79,23,Not Hired
+48,Male,Bachelor's,5,55,60,84,Hired
+37,Male,Bachelor's,14,46,50,88,Hired
+48,Female,Bachelor's,5,89,9,59,Not Hired
+45,Male,Bachelor's,7,9,5,56,Not Hired
+38,Female,Master's,11,77,61,22,Hired
+38,Female,Master's,4,48,4,21,Not Hired
+40,Male,Bachelor's,13,40,69,67,Not Hired
+24,Female,Bachelor's,2,82,62,33,Hired
+37,Female,Bachelor's,11,29,55,69,Not Hired
+47,Female,Bachelor's,2,4,58,27,Not Hired
+29,Female,PhD,12,94,62,94,Hired
+48,Male,Master's,5,70,88,98,Not Hired
+41,Female,Master's,1,82,58,38,Not Hired
+40,Female,PhD,15,30,50,41,Not Hired
+25,Female,Bachelor's,5,51,49,22,Not Hired
+20,Male,Master's,15,87,3,69,Hired
+24,Female,Bachelor's,12,97,47,79,Not Hired
+28,Male,PhD,5,22,31,1,Not Hired
+31,Male,Bachelor's,7,47,50,23,Not Hired
+45,Female,Master's,6,39,51,16,Hired
+33,Female,Master's,7,5,98,64,Hired
+21,Male,Bachelor's,13,37,73,69,Not Hired
+36,Female,Bachelor's,8,40,33,68,Not Hired
+33,Male,Master's,5,99,35,59,Hired
+45,Male,Bachelor's,13,26,69,49,Hired
+32,Female,Bachelor's,15,74,42,92,Not Hired
+46,Female,Bachelor's,2,68,15,11,Not Hired
+28,Male,Bachelor's,9,56,58,46,Not Hired
+45,Male,Master's,2,16,52,66,Not Hired
+44,Male,Bachelor's,15,70,18,64,Not Hired
+34,Male,Bachelor's,10,90,97,26,Not Hired
+44,Female,Bachelor's,11,46,88,47,Not Hired
+41,Female,Bachelor's,0,78,94,87,Not Hired
+34,Female,Bachelor's,10,12,40,61,Not Hired
+43,Female,Bachelor's,14,10,80,43,Hired
+49,Female,Bachelor's,12,89,46,18,Hired
+30,Male,Bachelor's,14,85,93,58,Not Hired
+50,Female,Master's,4,91,53,7,Hired
+35,Female,Bachelor's,13,23,54,54,Not Hired
+48,Female,Bachelor's,3,92,94,46,Not Hired
+36,Female,Bachelor's,8,72,18,1,Not Hired
+45,Female,Bachelor's,14,3,61,93,Not Hired
+23,Male,Bachelor's,8,45,98,93,Hired
+20,Male,Bachelor's,14,17,92,38,Hired
+27,Male,Master's,13,42,58,44,Not Hired
+36,Female,Bachelor's,4,79,64,31,Hired
+22,Male,Bachelor's,9,32,67,64,Not Hired
+48,Male,Master's,3,92,27,37,Not Hired
+39,Female,Bachelor's,6,9,17,76,Not Hired
+34,Female,Bachelor's,14,72,25,10,Not Hired
+34,Female,Bachelor's,5,58,18,9,Not Hired
+50,Male,Bachelor's,3,30,54,58,Not Hired
+43,Male,Master's,12,27,56,89,Hired
+41,Female,Master's,12,59,5,54,Not Hired
+33,Female,PhD,14,2,0,19,Not Hired
+45,Male,Bachelor's,9,54,7,80,Not Hired
+47,Male,Bachelor's,1,13,96,16,Not Hired
+42,Female,Bachelor's,0,57,50,67,Not Hired
+33,Female,Bachelor's,3,88,84,4,Not Hired
+43,Male,Bachelor's,3,14,87,59,Not Hired
+21,Female,PhD,12,1,24,22,Not Hired
+32,Male,Bachelor's,0,23,46,45,Not Hired
+45,Male,Bachelor's,5,77,54,51,Not Hired
+33,Male,Bachelor's,3,63,63,9,Not Hired
+46,Male,Bachelor's,0,70,82,45,Not Hired
+43,Female,Bachelor's,0,99,92,27,Not Hired
+38,Female,Master's,14,23,9,96,Not Hired
+26,Male,Bachelor's,12,26,55,42,Not Hired
+22,Male,Master's,0,36,11,25,Not Hired
+34,Male,Bachelor's,7,93,32,54,Not Hired
+42,Male,Master's,9,90,70,47,Hired
+33,Male,Master's,7,38,16,28,Not Hired
+30,Female,Bachelor's,1,62,60,26,Not Hired
+34,Female,Bachelor's,10,78,9,17,Not Hired
+47,Female,PhD,12,25,30,59,Not Hired
+32,Female,Bachelor's,6,64,59,73,Hired
+37,Male,PhD,13,3,69,68,Hired
+45,Male,Bachelor's,7,28,16,73,Not Hired
+25,Male,Bachelor's,7,0,49,20,Not Hired
+22,Male,Master's,10,49,36,23,Not Hired
+38,Male,PhD,9,85,81,2,Hired
+34,Female,Bachelor's,14,10,61,94,Not Hired
+44,Male,Master's,10,73,89,61,Hired
+42,Female,Bachelor's,12,58,79,100,Not Hired
+24,Female,Bachelor's,6,61,71,1,Not Hired
+47,Female,Bachelor's,4,80,87,65,Not Hired
+29,Female,Bachelor's,0,35,76,41,Not Hired
+26,Male,PhD,11,55,28,33,Not Hired
+44,Female,Bachelor's,8,89,31,41,Hired
+36,Female,Bachelor's,12,20,87,19,Not Hired
+26,Female,Bachelor's,15,12,79,96,Not Hired
+41,Male,Bachelor's,6,8,10,67,Hired
+45,Male,Bachelor's,1,10,95,44,Not Hired
+49,Male,Master's,5,74,5,74,Not Hired
+31,Female,Bachelor's,1,69,34,41,Not Hired
+44,Female,PhD,14,0,32,46,Hired
+36,Male,PhD,0,69,17,4,Not Hired
+32,Female,Bachelor's,13,76,36,88,Not Hired
+39,Male,PhD,6,85,12,48,Not Hired
+44,Male,Master's,12,55,73,36,Not Hired
+23,Female,Bachelor's,15,30,100,33,Not Hired
+29,Female,Bachelor's,1,85,89,72,Not Hired
+22,Female,Bachelor's,12,36,80,69,Not Hired
+28,Female,Bachelor's,13,46,63,17,Hired
+32,Male,Master's,13,90,0,77,Hired
+37,Male,Bachelor's,1,77,62,18,Not Hired
+34,Male,Master's,12,46,88,77,Hired
+23,Male,Bachelor's,10,68,33,39,Not Hired
+34,Male,Bachelor's,4,57,9,16,Not Hired
+41,Female,PhD,13,35,83,59,Not Hired
+21,Male,Bachelor's,4,31,6,98,Not Hired
+34,Male,Bachelor's,15,97,55,92,Hired
+27,Male,Bachelor's,6,63,79,41,Hired
+27,Female,Bachelor's,0,70,36,80,Not Hired
+36,Female,Bachelor's,7,41,28,71,Not Hired
+31,Female,Bachelor's,2,47,11,64,Not Hired
+38,Female,Bachelor's,3,73,16,52,Not Hired
+29,Male,PhD,14,80,47,99,Hired
+28,Male,Bachelor's,8,29,83,6,Not Hired
+24,Female,Bachelor's,3,20,25,4,Not Hired
+25,Female,Bachelor's,9,59,82,23,Not Hired
+39,Male,PhD,11,12,11,27,Hired
+45,Male,Bachelor's,14,0,20,61,Not Hired
+21,Female,Bachelor's,4,64,41,16,Not Hired
+46,Female,Bachelor's,6,32,60,100,Not Hired
+43,Female,Bachelor's,15,37,57,19,Not Hired
+46,Female,Master's,3,24,53,2,Not Hired
+32,Male,Master's,13,25,33,36,Not Hired
+25,Male,Bachelor's,0,76,6,89,Hired
+24,Male,Bachelor's,8,58,34,14,Not Hired
+44,Female,Bachelor's,3,91,14,50,Not Hired
+20,Female,PhD,8,32,64,47,Not Hired
+40,Male,PhD,5,100,89,7,Hired
+41,Male,Bachelor's,14,40,98,12,Not Hired
+40,Male,Master's,0,29,24,47,Not Hired
+25,Male,Master's,11,56,58,2,Not Hired
+25,Female,Bachelor's,2,48,78,64,Not Hired
+42,Male,Bachelor's,10,47,85,72,Not Hired
+35,Male,Bachelor's,1,71,5,30,Not Hired
+23,Male,Master's,15,48,51,25,Not Hired
+49,Male,PhD,8,46,78,80,Hired
+30,Male,Master's,15,55,87,55,Hired
+49,Male,Master's,14,64,20,33,Not Hired
+49,Male,Bachelor's,11,11,70,8,Not Hired
+49,Female,Master's,0,68,92,61,Not Hired
+50,Female,Master's,12,87,95,12,Hired
+43,Female,Bachelor's,13,5,31,68,Not Hired
+42,Female,Bachelor's,8,88,52,40,Not Hired
+28,Male,Master's,8,64,58,76,Hired
+42,Female,Bachelor's,7,24,68,0,Not Hired
+22,Female,Master's,7,0,61,88,Hired
+38,Male,Bachelor's,10,31,3,46,Not Hired
+50,Male,Bachelor's,13,2,85,3,Not Hired
+27,Female,Master's,11,48,17,99,Not Hired
+24,Female,Bachelor's,0,18,98,62,Hired
+23,Male,Bachelor's,10,59,80,51,Hired
+43,Female,Bachelor's,7,28,55,9,Not Hired
+50,Male,Master's,9,49,23,27,Hired
+25,Male,Bachelor's,13,1,65,5,Not Hired
+21,Male,PhD,2,72,12,26,Not Hired
+39,Male,Bachelor's,10,55,61,11,Not Hired
+47,Female,PhD,6,16,53,61,Hired
+30,Male,PhD,10,59,14,51,Not Hired
+23,Male,Bachelor's,14,35,68,47,Not Hired
+34,Female,Bachelor's,0,60,2,66,Not Hired
+25,Male,Bachelor's,0,16,36,45,Not Hired
+41,Female,Bachelor's,15,48,36,96,Not Hired
+36,Female,Bachelor's,9,75,100,73,Hired
+49,Female,Bachelor's,12,59,2,94,Not Hired
+43,Male,Bachelor's,4,19,62,14,Not Hired
+25,Female,Bachelor's,4,49,34,70,Not Hired
+38,Female,Bachelor's,7,2,51,35,Not Hired
+49,Male,Bachelor's,6,42,86,13,Not Hired
+44,Female,PhD,7,56,27,77,Hired
+21,Female,Bachelor's,5,49,93,2,Not Hired
+34,Female,Bachelor's,5,67,17,66,Not Hired
+30,Female,Bachelor's,1,80,35,85,Hired
+27,Female,Master's,5,49,32,18,Not Hired
+45,Male,PhD,4,36,63,98,Hired
+38,Female,Master's,12,45,25,75,Not Hired
+32,Female,PhD,15,41,47,53,Not Hired
+31,Male,Bachelor's,2,14,39,68,Not Hired
+24,Male,Master's,5,32,16,9,Not Hired
+25,Male,Master's,7,79,39,32,Not Hired
+45,Female,Bachelor's,8,10,6,12,Not Hired
+41,Male,PhD,0,19,56,98,Not Hired
+23,Female,Bachelor's,2,23,7,50,Not Hired
+38,Female,Bachelor's,2,63,55,31,Not Hired
+39,Male,Bachelor's,10,79,30,74,Not Hired
+20,Male,Bachelor's,7,93,58,23,Hired
+39,Female,Master's,0,97,57,34,Not Hired
+36,Male,Bachelor's,4,64,11,82,Not Hired
+31,Female,Bachelor's,2,87,47,69,Not Hired
+34,Male,Bachelor's,1,87,30,39,Not Hired
+20,Male,Master's,14,72,82,53,Hired
+45,Male,Bachelor's,7,85,62,43,Not Hired
+33,Female,Bachelor's,2,75,73,61,Not Hired
+25,Male,PhD,6,16,38,98,Not Hired
+24,Female,Master's,11,88,75,67,Hired
+49,Female,Bachelor's,10,91,19,32,Not Hired
+30,Female,Master's,0,60,100,76,Hired
+50,Female,Master's,5,14,47,55,Not Hired
+23,Male,Master's,2,93,70,35,Not Hired
+32,Female,Bachelor's,7,50,53,53,Not Hired
+30,Female,Bachelor's,5,26,77,18,Not Hired
+22,Male,Bachelor's,11,85,74,42,Not Hired
+20,Female,Bachelor's,1,73,70,11,Hired
+25,Male,Bachelor's,5,60,28,10,Not Hired
+37,Female,Bachelor's,6,57,73,69,Not Hired
+43,Male,Bachelor's,4,30,92,11,Not Hired
+29,Female,Bachelor's,2,90,72,90,Not Hired
+24,Male,Bachelor's,3,11,99,40,Not Hired
+42,Female,Master's,3,45,47,24,Not Hired
+29,Female,Bachelor's,5,30,73,2,Not Hired
+31,Male,Bachelor's,9,31,82,2,Hired
+21,Male,Master's,0,31,55,83,Not Hired
+32,Male,Bachelor's,10,98,94,27,Hired
+27,Male,Master's,3,52,16,22,Not Hired
+21,Female,Master's,9,60,8,47,Hired
+39,Female,Bachelor's,12,45,96,66,Not Hired
+20,Male,Master's,3,84,33,41,Hired
+50,Female,Bachelor's,9,73,44,87,Not Hired
+24,Male,Bachelor's,15,79,87,39,Not Hired
+28,Male,Bachelor's,0,6,8,5,Not Hired
+36,Female,Bachelor's,8,3,6,19,Not Hired
+28,Female,PhD,3,90,15,10,Hired
+30,Female,Bachelor's,6,51,18,95,Hired
+34,Female,Bachelor's,11,88,5,26,Not Hired
+43,Female,Bachelor's,13,30,10,20,Not Hired
+25,Female,Bachelor's,2,74,75,12,Hired
+42,Female,Bachelor's,9,83,60,85,Hired
+22,Male,Bachelor's,11,35,41,34,Not Hired
+49,Male,Master's,2,53,12,46,Not Hired
+50,Male,Bachelor's,13,53,11,85,Hired
+36,Male,Bachelor's,7,16,84,27,Hired
+24,Male,Bachelor's,7,74,73,20,Hired
+49,Female,Bachelor's,10,29,19,17,Hired
+47,Male,Master's,11,98,49,30,Not Hired
+31,Male,Bachelor's,0,21,35,59,Hired
+37,Male,Bachelor's,9,42,91,36,Hired
+33,Male,Bachelor's,1,26,87,20,Hired
+40,Male,Master's,15,36,68,13,Not Hired
+43,Male,Bachelor's,7,45,36,88,Hired
+30,Male,Bachelor's,0,34,11,90,Hired
+28,Female,Master's,14,3,98,59,Hired
+21,Female,Bachelor's,11,79,39,22,Not Hired
+31,Male,Master's,7,79,53,94,Hired
+22,Female,Master's,7,84,1,28,Not Hired
+22,Female,Bachelor's,15,25,49,46,Not Hired
+20,Female,Bachelor's,1,99,40,29,Not Hired
+27,Female,Bachelor's,3,18,44,89,Not Hired
+41,Male,Bachelor's,5,80,8,83,Hired
+47,Female,PhD,11,44,61,37,Not Hired
+48,Female,Bachelor's,10,25,85,82,Not Hired
+27,Female,Bachelor's,8,21,46,26,Hired
+30,Male,Master's,14,57,4,88,Not Hired
+28,Male,Bachelor's,15,62,75,86,Not Hired
+24,Male,Bachelor's,7,27,0,92,Not Hired
+33,Male,Bachelor's,11,64,43,14,Not Hired
+47,Male,Bachelor's,14,43,21,58,Not Hired
+49,Male,Master's,7,99,37,2,Not Hired
+22,Male,Bachelor's,6,42,18,9,Hired
+40,Female,Bachelor's,13,36,79,78,Hired
+24,Female,Bachelor's,12,65,30,79,Hired
+24,Female,Bachelor's,8,16,66,16,Hired
+38,Male,Bachelor's,14,39,86,82,Not Hired
+46,Male,Bachelor's,1,37,41,10,Not Hired
+33,Male,Bachelor's,2,84,81,47,Not Hired
+45,Male,PhD,9,60,25,4,Hired
+49,Male,Bachelor's,7,8,12,68,Hired
+23,Female,Bachelor's,13,76,57,63,Not Hired
+44,Female,Bachelor's,5,74,17,13,Not Hired
+32,Male,Master's,9,60,66,49,Hired
+29,Male,Master's,8,79,86,25,Hired
+44,Male,Bachelor's,9,15,2,71,Hired
+37,Male,PhD,3,1,54,68,Hired
+27,Female,Bachelor's,15,71,88,6,Not Hired
+27,Male,Bachelor's,7,42,90,15,Hired
+26,Male,Bachelor's,9,41,57,54,Hired
+27,Male,Bachelor's,2,76,62,77,Not Hired
+33,Male,Master's,2,56,90,100,Not Hired
+38,Female,Bachelor's,7,80,51,55,Not Hired
+48,Male,Bachelor's,4,87,88,3,Hired
+25,Male,Master's,2,66,23,99,Hired
+20,Female,Bachelor's,9,29,71,47,Hired
+42,Female,Bachelor's,10,12,8,16,Hired
+50,Female,Bachelor's,15,18,36,35,Not Hired
+34,Male,Bachelor's,0,6,93,69,Not Hired
+20,Male,Bachelor's,14,8,82,79,Hired
+44,Female,Bachelor's,2,82,52,92,Hired
+36,Female,Bachelor's,11,53,79,99,Hired
+20,Female,Bachelor's,8,85,23,37,Not Hired
+34,Female,Master's,4,81,20,100,Hired
+42,Female,Bachelor's,11,60,99,61,Not Hired
+21,Female,Bachelor's,9,86,39,47,Hired
+33,Male,Bachelor's,14,1,61,9,Not Hired
+40,Male,Bachelor's,1,49,69,35,Not Hired
+27,Male,Bachelor's,6,74,68,28,Hired
+27,Female,Bachelor's,14,30,13,77,Not Hired
+38,Female,Bachelor's,1,32,41,3,Not Hired
+26,Female,PhD,3,77,49,43,Hired
+38,Female,Bachelor's,11,79,60,55,Not Hired
+25,Female,Master's,6,10,3,41,Hired
+25,Female,Bachelor's,3,32,71,99,Not Hired
+22,Male,Master's,6,6,87,12,Not Hired
+26,Male,Bachelor's,15,30,74,45,Not Hired
+38,Female,Master's,6,47,16,81,Not Hired
+27,Male,Bachelor's,15,46,84,32,Hired
+29,Female,Bachelor's,0,77,56,20,Hired
+39,Male,Bachelor's,5,91,89,79,Hired
+34,Female,Master's,8,52,47,78,Not Hired
+34,Female,Bachelor's,1,79,43,56,Not Hired
+48,Male,Bachelor's,13,18,44,68,Hired
+20,Male,Bachelor's,2,80,90,69,Hired
+39,Female,Bachelor's,9,89,79,66,Hired
+49,Female,Bachelor's,4,5,89,47,Hired
+26,Male,Bachelor's,8,48,32,75,Not Hired
+46,Male,PhD,3,72,30,99,Hired
+23,Female,Master's,0,49,46,32,Not Hired
+48,Male,PhD,3,80,5,35,Hired
+25,Female,Bachelor's,5,94,71,32,Not Hired
+44,Female,Master's,4,11,70,30,Hired
+20,Female,Master's,13,22,33,20,Hired
+48,Female,Bachelor's,12,53,52,26,Not Hired
+24,Male,Bachelor's,0,68,13,90,Not Hired
+46,Male,Bachelor's,3,99,15,71,Hired
+42,Male,Master's,5,58,42,100,Not Hired
+20,Male,Bachelor's,12,35,72,61,Hired
+49,Male,Bachelor's,14,2,73,95,Not Hired
+23,Male,Bachelor's,9,57,80,25,Hired
+41,Male,PhD,9,87,11,65,Hired
+21,Female,Master's,13,54,69,11,Hired
+29,Male,PhD,3,56,18,21,Hired
+24,Male,Bachelor's,14,16,40,16,Hired
+46,Female,Bachelor's,13,38,52,6,Hired
+29,Male,Bachelor's,8,89,28,67,Hired
+20,Male,Bachelor's,4,67,69,36,Hired
+41,Female,Bachelor's,7,54,58,37,Not Hired
+25,Male,Bachelor's,8,44,88,95,Not Hired
+32,Male,Bachelor's,9,75,63,10,Not Hired
+50,Male,Bachelor's,4,0,23,0,Hired
+34,Female,PhD,5,20,88,24,Hired
+23,Male,Bachelor's,0,82,15,41,Hired
+32,Male,Master's,10,20,51,51,Not Hired
+43,Female,Bachelor's,15,51,79,23,Not Hired
+39,Male,Bachelor's,11,81,5,52,Not Hired
+43,Female,Bachelor's,14,42,36,55,Not Hired
+34,Female,Bachelor's,6,51,84,62,Not Hired
+48,Male,Bachelor's,3,66,3,80,Hired
+27,Female,Bachelor's,10,43,97,7,Not Hired
+24,Female,Bachelor's,1,31,91,58,Hired
+48,Male,Bachelor's,4,9,37,44,Hired
+34,Female,Bachelor's,11,63,40,26,Hired
